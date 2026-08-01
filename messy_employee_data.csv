@@ -1,0 +1,329 @@
+employee_id,first_name,last_name,email,phone,department,city,hire_date,salary,active
+82,jennifer,gonzalez,jennifergonzalez@gmail.com,711-730-7340,,phoenix,07/05/2023,,TRUE
+293,Elizabeth,GONZALEZ,elizabeth.gonzalez@email.com,(593) 905-8898,Marketing,Philadelphia,30-12-2023,-5000,N
+300,Jennifer ,MOORE,jennifer_moore@yahoo,,Engineering,Chicago,2018-06-26,$77735,yes
+178, David,brown,davidbrown@gmail.com,8856356583,Marketing ,Philadelphia,02/11/2020,148868,N
+25,MIKE,martinez,MIKE.Martinez@COMPANY.COM,(527) 753-2320,ENGINEERING,San Antonio,17/09/21,$84496,yes
+165,RICHARD,GARCIA,richardgarcia@gmail.com,7162203987,Marketing,Los Angeles,09/05/22,-5000,False
+52,Jessica ,HERNANDEZ,,,Marketing,Los Angeles,19/08/20,89459.0,False
+65,Thomas ,Gonzalez,thomas_gonzalez@yahoo,call me,HR, Chicago,02-12-2021,N/A,N
+61,MIKE, Taylor,mike_taylor@yahoo,(664) 549-3578,Engineering,Chicago,2024-12-05,9999999,yes
+115, Mike,thomas,invalid-email,call me,,new york,05/15/2018,$71220,
+201, William,SMITH,invalid-email,(425) 339-7406,Support,Houston ,03/23/2024,unknown,False
+64,John,anderson,invalid-email,926-855-7843,,San Diego,2022-01-22,$140688,yes
+91,KAREN,Brown,karen_brown@yahoo,(582) 547-6990,Sales,Chicago,"September 26, 2021",N/A,0
+146,Patricia, Hernandez,patricia.hernandez@email.com,+1 805.705.4201,Support, Chicago,10/01/2020,$83744,False
+4,Karen ,GARCIA,karengarcia@gmail.com,855-904-4598,Sales, Chicago,"July 16, 2021",57653.0,N
+277,Michael , Miller,michael_miller@yahoo,(780) 550-9921,,San Jose,12-03-2023,9999999,Y
+153, Mike,RODRIGUEZ,mike_rodriguez@yahoo,,Support, Chicago,09-06-2023,95849.0,yes
+79,james, Brown,james_brown@yahoo,(961) 650-7334,ENGINEERING,Los Angeles,30/10/22,-5000,0
+126,John,HERNANDEZ,,+1 673.437.7636,Engineering,Chicago,"November 06, 2022",$126650,TRUE
+100, Emily,jones,emilyjones@gmail.com,6097548370,sales,Los angeles,2020-08-25,-5000,Y
+55,JESSICA,Rodriguez,,+1 471.253.3076,ENGINEERING,DALLAS,2019-04-11,131976.0,False
+56, Thomas,BROWN,invalid-email,+1 690.611.7984,Marketing,San Diego,2022-12-22,N/A,No
+169,William ,Jones,williamjones@gmail.com,6512117753,sales,Houston ,17/03/23,82028,N
+208,Michael ,brown,,call me,Finance,San Antonio,01/07/20,137116.0,TRUE
+197,JENNIFER, Martinez,invalid-email,(970) 864-1144,sales,San Antonio,"April 10, 2019",-5000,Yes
+12,SUSAN, Thomas,susan.thomas@email.com,599-471-8454,HR,phoenix,2020-06-10,105914,0
+274, Jane, Williams,janewilliams@gmail.com,(921) 810-8304,Marketing ,San Jose,2019-06-24,9999999,No
+289,Jessica,Smith,jessica.smith@email.com,306-901-8306,Sales,New York,2024-12-12,$107874,
+93,Susan ,RODRIGUEZ,,call me,Marketing,Houston,"March 19, 2018",unknown,N
+67,Patricia ,Rodriguez,PATRICIA.Rodriguez@COMPANY.COM,call me,,DALLAS,"April 24, 2022",106064,TRUE
+283, Joseph,Rodriguez,invalid-email,call me,Sales,Philadelphia,2024-01-01,9999999,
+103,Richard , Jones,richard_jones@yahoo,call me,Marketing,New York,02-10-2022,121800,No
+87,John ,thomas,,,ENGINEERING,San Diego,03/18/2023,48830.0,0
+190, Joseph,Jones,invalid-email,+1 381.908.3845,Engineering,Los Angeles,06/05/22,unknown,yes
+121,karen, Gonzalez,KAREN.Gonzalez@COMPANY.COM,4057331177,Marketing ,San Jose,19-09-2020,unknown,0
+288, Jessica,lopez,JESSICA.Lopez@COMPANY.COM,+1 891.967.4961,, Chicago,09/03/20,N/A,0
+231,Elizabeth ,taylor,ELIZABETH.Taylor@COMPANY.COM,(693) 752-4721,Sales,DALLAS,13-07-2019,67586,TRUE
+276,Patricia ,LOPEZ,invalid-email,call me,ENGINEERING,Houston,12/18/2024,unknown,No
+133,patricia,Jackson,patriciajackson@gmail.com,+1 335.455.3396,sales,Houston ,"October 10, 2020",-5000,yes
+150,jane,MILLER,jane.miller@email.com,,Marketing ,DALLAS,03/03/2024,N/A,No
+267, Karen,Wilson,KAREN.Wilson@COMPANY.COM,4963600727,Support,DALLAS,2021-08-19,73684.0,yes
+187, Mike, Anderson,mike.anderson@email.com,(710) 657-6178,Marketing, Chicago,10/10/24,$69924,TRUE
+160,Jessica, Gonzalez,invalid-email,9727481822,Finance,Los Angeles,31-10-2018,N/A,No
+265,Mike ,Wilson,MIKE.Wilson@COMPANY.COM,call me,Sales,Los Angeles,29/05/24,-5000,yes
+216,joseph,Gonzalez,josephgonzalez@gmail.com,3869931869,Marketing,San Jose,"June 04, 2018",-5000,
+172,Karen ,Gonzalez,karen.gonzalez@email.com,7576911639,Finance,new york,24-08-2021,-5000,N
+97,JANE,TAYLOR,jane.taylor@email.com,,Marketing ,San Diego,27-03-2020,72096,No
+141,Mike ,Smith,mike.smith@email.com,,ENGINEERING,Los Angeles,07/01/24,,1
+206,JESSICA,thomas,jessica_thomas@yahoo,(428) 990-5767,HR,Houston ,11/20/2024,9999999,Y
+33,MIKE, Martinez,,3476426754,Marketing ,phoenix,09-06-2021,$45814,0
+35,jane,MOORE,,(970) 702-2680,Finance,Houston ,2023-05-11,9999999,No
+117, Karen,martin,karen.martin@email.com,+1 584.642.4043,,new york,2022-04-06,$111083,No
+244,william,TAYLOR,invalid-email,+1 622.982.8054,sales,San Jose,12/09/20,-5000,0
+78,Emily, Jones,emily.jones@email.com,,Finance,New York,22-02-2020,76789,0
+118,MIKE , Rodriguez,,2393077279,Marketing,Chicago,12/24/2018,$44435,No
+253,William,taylor,william_taylor@yahoo,(811) 744-2442,HR,DALLAS,02-06-2021,N/A,Yes
+10,Jessica , Jones,jessicajones@gmail.com,+1 620.678.1887,Marketing,New York,08-07-2022,$142941,N
+50,Jennifer,jones,JENNIFER.Jones@COMPANY.COM,7866313426,Marketing , Chicago,23-04-2021,,Y
+170,Jennifer , Thomas,jenniferthomas@gmail.com,(685) 800-6730,ENGINEERING,New York,30/10/19,$58091,N
+130, David, Miller,david_miller@yahoo,2718348264,Sales,phoenix,09/07/20,9999999,
+26,William, Jackson,william_jackson@yahoo,,HR,phoenix,"November 21, 2022",unknown,Y
+2,richard,Jackson,richardjackson@gmail.com,3445662585,sales,San Jose,2020-12-19,,yes
+245, Richard,Anderson,,(235) 491-1267,Finance,DALLAS,26/09/23,,Yes
+16,david,RODRIGUEZ,,5633987776,Sales,New York,09/28/2021,9999999,False
+270,susan, Davis,SUSAN.Davis@COMPANY.COM,,Support,New York,31/05/23,9999999,False
+85,JESSICA,JACKSON,jessica_jackson@yahoo,2707196784,Support,phoenix,20-11-2018,-5000,Y
+186,JENNIFER,Gonzalez,jennifer.gonzalez@email.com,6616511064,Finance,New York,09/08/2023,unknown,N
+210,SUSAN,THOMAS,,(620) 222-4992,Engineering,phoenix,08/01/20,83143,1
+98,Thomas ,Davis,thomasdavis@gmail.com,call me,,Los Angeles,04-10-2021,9999999,Y
+205,JESSICA,Brown,JESSICA.Brown@COMPANY.COM,call me,,San Antonio,08/13/2024,-5000,False
+81,EMILY, Smith,emily.smith@email.com,+1 780.233.3513,Marketing ,Philadelphia,"March 04, 2022",N/A,False
+5, Susan,GONZALEZ,SUSAN.Gonzalez@COMPANY.COM,,Marketing, Chicago,2018-07-12,unknown,
+72,PATRICIA,ANDERSON,PATRICIA.Anderson@COMPANY.COM,call me,Support,San Antonio,10/26/2019,-5000,Yes
+27,Richard ,Jones,richard_jones@yahoo,6877792136,ENGINEERING,Philadelphia,"May 16, 2020",unknown,1
+138,JENNIFER, Martinez,jennifermartinez@gmail.com,+1 368.650.6753,HR,new york,"September 13, 2019",$119989,No
+227,THOMAS,moore,THOMAS.Moore@COMPANY.COM,,Engineering,Houston ,18-11-2019,unknown,No
+105, John, Martinez,invalid-email,(588) 435-5055,ENGINEERING,San Jose,03/06/2018,57011,TRUE
+260,emily,Wilson,,861-662-2481,ENGINEERING,San Antonio,"August 17, 2021",$53445,TRUE
+258, John,RODRIGUEZ,,,ENGINEERING, Chicago,21/06/18,79856.0,yes
+155,thomas,GONZALEZ,thomasgonzalez@gmail.com,call me,HR,Houston ,10/07/23,70508,No
+41,Sarah ,Gonzalez,,(755) 673-7770,HR,phoenix,02/28/2024,9999999,No
+131,Susan ,Moore,invalid-email,,Marketing,Los angeles,10-10-2020,-5000,0
+281,David,Smith,davidsmith@gmail.com,call me,Engineering,San Diego,"September 18, 2023",unknown,0
+,,,,,,,,,
+92,KAREN, Hernandez,invalid-email,(957) 506-6511,sales,Philadelphia,"March 25, 2019",106507,
+154,James,garcia,invalid-email,(424) 230-5602,HR,new york,14-09-2020,99951,N
+247,Patricia , Johnson,patricia.johnson@email.com,+1 988.432.1187,ENGINEERING,New York,02/06/21,N/A,0
+164,sarah, Williams,invalid-email,,Finance,Los Angeles,2022-06-06,N/A,No
+24,David ,anderson,david_anderson@yahoo,5853479481,HR,Houston ,09/02/21,-5000,TRUE
+291, Jane,gonzalez,jane.gonzalez@email.com,(464) 471-3915,Engineering,DALLAS,11/02/2022,9999999,1
+183,Sarah,Brown,sarahbrown@gmail.com,7447347383,Engineering,Los Angeles,"June 30, 2022",unknown,TRUE
+158,PATRICIA,MARTINEZ,,+1 525.826.4619,,Los Angeles,07/26/2023,$127693,0
+80,sarah,williams,SARAH.Williams@COMPANY.COM,call me,ENGINEERING,phoenix,2018-08-23,83242.0,False
+142,MIKE,TAYLOR,invalid-email,(534) 600-2083,ENGINEERING,Los Angeles,01/02/23,N/A,No
+249,Mike , Gonzalez,,call me,,Los angeles,11/18/2023,unknown,0
+191,karen, Davis,KAREN.Davis@COMPANY.COM,+1 918.760.6143,Support,new york,06/09/2020,-5000,0
+156,Jane ,DAVIS,jane.davis@email.com,5463656690,Sales,New York,29/08/19,,False
+27,Richard ,Jones,richard_jones@yahoo,6877792136,ENGINEERING,Philadelphia,"May 16, 2020",unknown,1
+280,Linda , Wilson,,615-590-8130,HR,DALLAS,25-04-2022,-5000,Y
+212,SARAH, Smith,sarahsmith@gmail.com,,Engineering,San Jose,2024-01-18,unknown,False
+37,SARAH,miller,,2672302490,Sales,Houston,26-03-2021,,N
+252,William ,Jackson,WILLIAM.Jackson@COMPANY.COM,,Finance,new york,2022-01-15,unknown,N
+195,EMILY,WILLIAMS,,(726) 322-7180,sales,San Diego,2019-09-27,50146,
+276,Patricia ,LOPEZ,invalid-email,call me,ENGINEERING,Houston,12/18/2024,unknown,No
+140,PATRICIA, Johnson,patricia_johnson@yahoo,853-808-2163,ENGINEERING,Houston ,"May 17, 2024",N/A,TRUE
+188,Michael,LOPEZ,michael_lopez@yahoo,(539) 773-8751,sales,Philadelphia,10/04/21,,Yes
+22,RICHARD, Anderson,,490-727-6491,HR,Chicago,2018-04-11,,TRUE
+40, Emily, Jackson,emily.jackson@email.com,5683935600,ENGINEERING,Houston ,2024-03-03,-5000,0
+102,richard,Taylor,invalid-email,(314) 263-9972,HR,Los angeles,"July 16, 2024",9999999,Yes
+217, Jane, Garcia,jane.garcia@email.com,call me,Engineering,new york,28-05-2018,N/A,No
+73,Susan ,Lopez,,(728) 327-5670,HR,Houston ,22-01-2023,unknown,False
+147,jennifer,Smith,,306-410-9680,Finance,Los Angeles,06/29/2018,unknown,0
+59,Jennifer,wilson,invalid-email,6959528330,Support,Philadelphia,16-04-2019,unknown,False
+,,,,,,,,,
+151,JOHN,JOHNSON,johnjohnson@gmail.com,796-800-5240,Marketing,Houston ,2021-09-20,N/A,
+192,David ,garcia,,(318) 979-6771,Support,Los Angeles,"April 14, 2018",49048,N
+269,JESSICA,smith,JESSICA.Smith@COMPANY.COM,231-547-7147,,Los Angeles,16-06-2021,unknown,No
+90,Jessica, Smith,jessicasmith@gmail.com,2194314620,Support,phoenix,"October 29, 2018",-5000,
+192,David  ,garcia,,(318) 979-6771,Support,Los Angeles,"April 14, 2018",$89996,N
+297,robert, Wilson,ROBERT.Wilson@COMPANY.COM,(323) 900-9943,Marketing,phoenix,"August 02, 2019",N/A,TRUE
+63,robert,jones,ROBERT.Jones@COMPANY.COM,call me,Support,Houston ,2021-12-21,82044,yes
+42,JOHN,MARTIN,JOHN.Martin@COMPANY.COM,,Finance,DALLAS,"January 24, 2021",$93242,TRUE
+,,,,,,,,,
+185, Susan, Brown,susan.brown@email.com,+1 790.941.4669,sales,DALLAS,13/11/23,$86734,TRUE
+84,Jennifer ,moore,jennifer_moore@yahoo,call me,Marketing,Chicago,2021-07-22,119143.0,Y
+44,jessica,thomas,invalid-email,(981) 756-7180,sales,Los angeles,"April 22, 2023",N/A,TRUE
+145,David, Garcia,davidgarcia@gmail.com,call me,Sales,Chicago,03/07/20,9999999,1
+106,KAREN,Johnson,karen_johnson@yahoo,call me,, Chicago,08/06/2021,$144852,yes
+196,Patricia ,thomas,patricia.thomas@email.com,call me,Support,San Antonio,12-01-2019,57964.0,0
+60,Karen ,Martin,invalid-email,(873) 910-5381,Engineering,Houston ,10/08/19,N/A,Yes
+171, Robert,Rodriguez,,,ENGINEERING,Houston ,"November 29, 2021",-5000,False
+162,Jane , Gonzalez,janegonzalez@gmail.com,637-289-5825,Marketing,New York,04/27/2020,9999999,No
+242,MIKE, Smith,mike.smith@email.com,call me,Sales,Los angeles,16-10-2018,,No
+226,Sarah,GARCIA,SARAH.Garcia@COMPANY.COM,3115699872,Sales,San Antonio,12-05-2019,$119074,
+200,william,Wilson,william_wilson@yahoo,9541793313,Support,Los Angeles,02-04-2021,9999999,yes
+290,Sarah,BROWN,sarah_brown@yahoo,+1 678.876.2240,Marketing ,phoenix,15-10-2022,,1
+108, Patricia,Jones,invalid-email,,sales,Los Angeles,01/03/2024,36755,No
+250,Thomas, Williams,thomas_williams@yahoo,call me,Engineering,San Diego,07/03/2018,N/A,No
+122,SARAH,JACKSON,,,Marketing ,Chicago,05/25/2021,unknown,yes
+34,SARAH,MOORE,sarahmoore@gmail.com,941-803-9595,sales,Chicago,2021-05-23,-5000,Yes
+194, William,gonzalez,invalid-email,call me,Support,Los angeles,10/07/2024,-5000,TRUE
+107,Patricia,RODRIGUEZ,,,Engineering,phoenix,03/22/2022,$100507,N
+234,JESSICA,Smith,JESSICA.Smith@COMPANY.COM,2387393108,ENGINEERING,phoenix,04-08-2023,90776,0
+6, Mike, Gonzalez,invalid-email,+1 749.968.5371,sales,Los Angeles,"April 17, 2021",-5000,False
+134,William,Anderson,william_anderson@yahoo,+1 535.795.1040,Marketing,Los angeles,21-02-2023,unknown,N
+198,Joseph , Lopez,joseph_lopez@yahoo,call me,Sales,new york,09/26/2018,$112511,yes
+39,Mike, Martin,,+1 789.801.1339,Finance,San Jose,06/14/2018,9999999,1
+128, William,Martin,WILLIAM.Martin@COMPANY.COM,(560) 668-3826,HR,phoenix,04/25/2019,unknown,yes
+38,JAMES, Jackson,james.jackson@email.com,,Marketing,San Diego,"May 30, 2021",9999999,TRUE
+213,Elizabeth, Lopez,elizabethlopez@gmail.com,(693) 987-7246,Finance,San Jose,"February 06, 2024",63791,
+230,linda, Davis,,call me,Finance,DALLAS,12/28/2022,9999999,
+273,Jessica ,lopez,JESSICA.Lopez@COMPANY.COM,,Sales,Chicago,"April 29, 2018",,yes
+28,Elizabeth, Rodriguez,elizabeth.rodriguez@email.com,558-429-2124,HR,Houston ,25/03/18,9999999,No
+20,Michael ,Wilson,michael_wilson@yahoo,6302231267,ENGINEERING,Los Angeles,14/09/21,,1
+74, Jennifer,Davis,JENNIFER.Davis@COMPANY.COM,,Engineering, Chicago,"April 06, 2023",,Yes
+46, William,Hernandez,invalid-email,,Engineering,Los angeles,2021-05-11,36028,1
+101,william,Taylor,,,Support,San Diego,01/11/2024,,False
+222, Sarah,Williams,invalid-email,call me,Finance,San Antonio,28/06/20,unknown,TRUE
+286,joseph,Johnson,josephjohnson@gmail.com,970-622-7277,,Los angeles,2021-11-14,,Yes
+54,Mike ,Miller,mike.miller@email.com,778-410-2124,sales, Chicago,28/08/19,N/A,Y
+49,William,Rodriguez,invalid-email,+1 394.835.5106,Engineering,new york,2019-02-02,70492,
+257,THOMAS,MARTIN,thomasmartin@gmail.com,281-904-8808,ENGINEERING,San Diego,04/25/2023,51467,yes
+249,Mike , Gonzalez,,call me,,Los angeles,11/18/2023,unknown,0
+271,PATRICIA,Hernandez,invalid-email,7959645993,Sales,new york,2024-08-31,73684,No
+174, Linda,moore,invalid-email,+1 464.942.3999,sales,new york,01/01/2019,-5000,yes
+75,JAMES, Miller,james.miller@email.com,(994) 495-4893,Marketing,Houston ,10/08/23,$32154,Y
+228,mike ,GARCIA,MIKE.Garcia@COMPANY.COM,+1 655.999.6950,,DALLAS,"January 19, 2023",unknown,Y
+137,Robert,THOMAS,invalid-email,,Marketing,Houston,2022-04-19,,0
+121,karen, Gonzalez,KAREN.Gonzalez@COMPANY.COM,4057331177,Marketing ,San Jose,19-09-2020,unknown,0
+32,susan,miller,SUSAN.Miller@COMPANY.COM,,Support, Chicago,"September 11, 2020",9999999,Yes
+135, Elizabeth,miller,ELIZABETH.Miller@COMPANY.COM,(490) 545-9967,Marketing,new york,2023-02-26,9999999,TRUE
+199,Sarah , Miller,,2162720486,Support,Los Angeles,06/13/2024,unknown,TRUE
+125,susan, Brown,susan.brown@email.com,8250606059,Marketing ,Los Angeles,"November 30, 2022",71800,No
+116,David,gonzalez,davidgonzalez@gmail.com,call me,sales,New York,"February 05, 2019",39963.0,
+89,THOMAS,HERNANDEZ,thomas_hernandez@yahoo,515-709-1379,HR,San Jose,2021-12-16,9999999,1
+96,jennifer,Jones,JENNIFER.Jones@COMPANY.COM,5209794402,Support,Los angeles,01/17/2021,$110698,N
+102,richard ,Taylor,invalid-email,(314) 263-9972,HR,Los angeles,"July 16, 2024",147751.0,Yes
+287, Emily, Anderson,EMILY.Anderson@COMPANY.COM,(687) 964-9724,Finance, Chicago,"January 13, 2023",118931,No
+256,Emily,Hernandez,emilyhernandez@gmail.com,983-526-7783,HR,Los Angeles,06/23/2019,-5000,
+109,Robert ,JACKSON,robert_jackson@yahoo,+1 972.690.4974,,Los angeles,"April 17, 2020",102362.0,1
+175,michael,lopez,michael_lopez@yahoo,+1 399.712.2963,ENGINEERING,DALLAS,"May 07, 2021",N/A,Y
+129,Karen , Jones,karen_jones@yahoo,910-860-3838,sales,Houston ,22/01/23,37026,TRUE
+69,william,Wilson,,3220401982,Marketing,San Jose,03-08-2019,unknown,Y
+91,KAREN,Brown,karen_brown@yahoo,(582) 547-6990,Sales,Chicago,"September 26, 2021",N/A,0
+261,mike,RODRIGUEZ,,+1 287.736.7292,Support,San Jose,"October 17, 2019",N/A,0
+58,michael,wilson,MICHAEL.Wilson@COMPANY.COM,268-293-2398,Support,New York,30/07/24,,yes
+225,James , Davis,james_davis@yahoo,call me,sales, Chicago,17-06-2023,62895,yes
+180, Elizabeth,Anderson,invalid-email,3293285336,,San Jose,"July 16, 2019",,1
+149,Robert ,Jones,robertjones@gmail.com,,Finance,San Diego,2020-12-21,-5000,
+219,Emily ,Wilson,invalid-email,+1 750.788.5098,Marketing ,San Antonio,"April 25, 2024",129283.0,TRUE
+266,karen,hernandez,karenhernandez@gmail.com,+1 384.824.4812,Finance,Houston,2018-01-07,,N
+167, Emily,RODRIGUEZ,invalid-email,4965734008,sales,New York,15-10-2021,9999999,No
+30,Sarah,jackson,invalid-email,,sales,new york,02/27/2023,-5000,
+228,mike,GARCIA,MIKE.Garcia@COMPANY.COM,+1 655.999.6950,,DALLAS,"January 19, 2023",51930,Y
+62, Susan, Martin,SUSAN.Martin@COMPANY.COM,call me,Finance,New York,"June 22, 2020",$37180,1
+295,Patricia , Thomas,patricia.thomas@email.com,,Support,Chicago,07/01/2024,N/A,TRUE
+36,THOMAS,JOHNSON,invalid-email,,Marketing ,San Diego,02/05/21,86207,
+53,ELIZABETH, Jackson,,(301) 701-7686,sales,DALLAS,2022-01-09,,TRUE
+182,THOMAS,Thomas,invalid-email,(276) 940-2659,Marketing,Houston ,2019-12-17,77214.0,yes
+129,Karen , Jones,karen_jones@yahoo,910-860-3838,sales,Houston ,22/01/23,37026,TRUE
+282, Linda,Garcia,invalid-email,(710) 948-4878,Sales,San Jose,03-06-2023,,Y
+263,Susan, Moore,susanmoore@gmail.com,call me,Finance,San Jose,04/02/2024,36411,0
+,,,,,,,,,
+166,Richard , Smith,richard.smith@email.com,5972536230,Support,Philadelphia,11-08-2022,9999999,Yes
+23,ELIZABETH, Jackson,elizabeth_jackson@yahoo,871-904-1090,Engineering, Chicago,"October 23, 2023",,TRUE
+207,Emily ,JACKSON,,(949) 695-6878,HR,DALLAS,"January 19, 2022",91561,Yes
+233,joseph,martin,,call me,Marketing ,phoenix,"December 25, 2024",N/A,Yes
+11, Robert,MOORE,robert_moore@yahoo,+1 763.300.1828,Support,Houston ,2018-03-02,N/A,yes
+299,robert, Jones,robert_jones@yahoo,8923701246,ENGINEERING,New York,04/03/2024,,
+120,DAVID, Williams,DAVID.Williams@COMPANY.COM,call me,,Houston,2023-02-19,unknown,0
+37,SARAH,miller,,2672302490,Sales,Houston,26-03-2021,,N
+240, John,TAYLOR,john.taylor@email.com,call me,Marketing , Chicago,03/08/2024,unknown,0
+29, Thomas,miller,THOMAS.Miller@COMPANY.COM,,HR,Los Angeles,08/22/2024,-5000,
+14,Thomas ,jackson,THOMAS.Jackson@COMPANY.COM,6857085221,Marketing,New York,21/02/23,$43104,False
+94,Elizabeth , Taylor,,,Support,Philadelphia,16-02-2024,-5000,
+173,DAVID,Taylor,invalid-email,,ENGINEERING,Los angeles,25/05/18,$104978,0
+132,Mike,ANDERSON,mikeanderson@gmail.com,(955) 802-6744,,Philadelphia,21-12-2023,52069.0,1
+15,james,Jones,jamesjones@gmail.com,+1 869.741.1128,Support,phoenix,03/01/2019,,False
+189,EMILY, Thomas,emily.thomas@email.com,(460) 825-4209,ENGINEERING,New York,2024-08-08,9999999,
+298,Linda,JACKSON,linda.jackson@email.com,996-361-1256,Marketing,Los angeles,28-08-2024,9999999,Y
+159,Michael,garcia,michael_garcia@yahoo,(211) 471-4435,ENGINEERING,San Diego,09/15/2022,unknown,0
+285,joseph,williams,josephwilliams@gmail.com,+1 805.956.3476,Marketing ,Philadelphia,20-12-2019,9999999,Y
+264,Jane,jones,JANE.Jones@COMPANY.COM,,,Philadelphia,2018-05-27,72312.0,yes
+279,robert,hernandez,robert_hernandez@yahoo,8030981976,Support,New York,04/01/18,-5000,Yes
+54,Mike ,Miller,mike.miller@email.com,778-410-2124,sales, Chicago,28/08/19,N/A,Y
+204,David ,jackson,DAVID.Jackson@COMPANY.COM,9353839257,Engineering,new york,"September 20, 2021",-5000,TRUE
+148,Richard ,Williams,invalid-email,8163204518,sales, Chicago,29-05-2022,$89343,No
+249,Mike  , Gonzalez,,call me,,Los angeles,11/18/2023,N/A,0
+262,THOMAS,JONES,thomasjones@gmail.com,(987) 929-1840,Engineering,Houston,15/01/18,9999999,TRUE
+179,LINDA,Jones,invalid-email,call me,Sales,San Jose,2018-07-16,115664,No
+,,,,,,,,,
+193,james,garcia,jamesgarcia@gmail.com,+1 663.304.4675,Support,San Antonio,31/08/20,-5000,Yes
+110,William ,anderson,WILLIAM.Anderson@COMPANY.COM,709-677-2615,sales,Philadelphia,2022-08-23,N/A,Yes
+76,Patricia,wilson,patriciawilson@gmail.com,call me,Support, Chicago,11/09/23,9999999,Yes
+264,Jane,jones,JANE.Jones@COMPANY.COM,,,Philadelphia,2018-05-27,72312.0,yes
+136,JOHN,WILSON,,(509) 362-5489,ENGINEERING,new york,06/05/2021,,Yes
+86,Patricia ,Martin,invalid-email,(856) 372-3526,Sales,new york,20-06-2024,unknown,
+177, David, Martin,david_martin@yahoo,call me,HR,New York,01/17/2018,144948.0,1
+229,Linda,RODRIGUEZ,lindarodriguez@gmail.com,(606) 305-2565,Marketing,phoenix,12/06/2024,unknown,1
+99,joseph,ANDERSON,joseph.anderson@email.com,863-463-4050,,Houston ,"July 19, 2022",unknown,No
+19, John,miller,JOHN.Miller@COMPANY.COM,(271) 991-5573,Finance,Chicago,06-07-2024,unknown,0
+248,JOSEPH,Davis,,970-809-9269,Engineering,Philadelphia,"December 05, 2018",unknown,1
+221, Jessica,garcia,JESSICA.Garcia@COMPANY.COM,8438153139,HR,Houston,04/10/2020,N/A,No
+1,sarah,SMITH,sarahsmith@gmail.com,(342) 954-2679,HR,Houston,01/09/23,unknown,N
+163, Patricia, Gonzalez,,(471) 293-9914,Finance,San Diego,20-03-2023,59654,Y
+275, Richard, Martinez,richardmartinez@gmail.com,,Marketing ,New York,"September 25, 2018",9999999,Y
+119,john,Williams,invalid-email,call me,Support,Chicago,04/09/2022,-5000,TRUE
+161,jessica, Williams,,,Support,Los angeles,22-01-2024,$66899,No
+95,SUSAN,miller,invalid-email,9259525141,Support, Chicago,25-01-2021,unknown,yes
+255,LINDA, Jackson,LINDA.Jackson@COMPANY.COM,755-334-4387,Finance,Los angeles,11/16/2023,N/A,
+203,Mike,martinez,mike.martinez@email.com,call me,Marketing,Houston,"July 25, 2021",-5000,
+48,Richard ,MARTINEZ,richard.martinez@email.com,,Marketing,Houston,12/04/22,-5000,Yes
+193,james ,garcia,jamesgarcia@gmail.com,+1 663.304.4675,Support,San Antonio,31/08/20,9999999,Yes
+181, Sarah,BROWN,invalid-email,call me,Marketing ,Houston,23-05-2023,,No
+224,JESSICA,rodriguez,jessica_rodriguez@yahoo,2904230112,ENGINEERING,phoenix,01/21/2023,$47188,No
+71,Sarah ,Taylor,,+1 909.989.3712,Marketing ,New York,10-08-2022,9999999,
+238,Jennifer ,Jones,jenniferjones@gmail.com,(699) 438-6189,ENGINEERING,Philadelphia,06-07-2019,9999999,False
+233,joseph,martin,,call me,Marketing ,phoenix,"December 25, 2024",N/A,Yes
+13,Jane , Johnson,invalid-email,,Marketing,San Jose,05/10/20,,yes
+236, Robert,thomas,ROBERT.Thomas@COMPANY.COM,962-762-9534,sales,New York,2020-06-11,86906.0,Yes
+83,Emily,anderson,,5828240439,Support,Houston,05/13/2019,9999999,Yes
+157,jennifer, Williams,invalid-email,+1 647.854.8982,sales,Chicago,20/04/24,N/A,yes
+278,Patricia,Gonzalez,,535-706-2007,Engineering,San Diego,17-12-2023,9999999,N
+9, William, Lopez,william.lopez@email.com,546-221-4770,Marketing,New York,2021-09-15,9999999,N
+47, Jennifer,LOPEZ,jenniferlopez@gmail.com,,,Chicago,"August 09, 2020",-5000,Yes
+123,Mike , Anderson,invalid-email,call me,Marketing,Los Angeles,13-10-2020,51802,
+15,james,Jones,jamesjones@gmail.com,+1 869.741.1128,Support,phoenix,03/01/2019,,False
+111,James  , Moore,JAMES.Moore@COMPANY.COM,8439450819,Marketing ,Los angeles,"July 03, 2023",unknown,Y
+68,thomas, Miller,invalid-email,+1 376.240.5059,Marketing ,San Diego,17/11/23,77696.0,1
+112, David,MOORE,invalid-email,(857) 260-9584,Engineering,New York,14/06/20,9999999,TRUE
+209,Susan,MARTIN,susan_martin@yahoo,call me,Marketing,new york,"August 01, 2020",,TRUE
+7,Emily,taylor,,call me,sales,San Diego,2018-03-21,-5000,N
+43, Jessica,JONES,invalid-email,7754720329,Finance,Houston ,01/08/24,N/A,TRUE
+124, William,Hernandez,william.hernandez@email.com,,sales,San Antonio,12/03/23,49758.0,Yes
+254,jennifer,lopez,jenniferlopez@gmail.com,840-463-7343,Engineering,Philadelphia,05/29/2022,$125668,yes
+232,Susan, Martinez,SUSAN.Martinez@COMPANY.COM,761-582-4089,Engineering,Los angeles,"May 16, 2022",unknown,N
+51,Linda ,gonzalez,linda.gonzalez@email.com,call me,ENGINEERING,Houston ,2022-03-02,118452,
+246,RICHARD,LOPEZ,RICHARD.Lopez@COMPANY.COM,+1 609.782.4562,Marketing,Los angeles,"August 22, 2021",,
+202,jessica,WILLIAMS,,416-622-9397,Marketing,Chicago,2024-05-12,9999999,False
+272,Joseph,martinez,,4286107192,Engineering,Chicago,2021-01-25,,N
+218,james, Gonzalez,james_gonzalez@yahoo,5947836984,Finance,Houston,10/19/2024,89606,1
+18,DAVID,DAVIS,david_davis@yahoo,(225) 383-6442,Marketing ,Houston,"March 28, 2020",$70001,N
+259,Karen ,Jackson,invalid-email,call me,Sales,Houston,"April 07, 2021",-5000,TRUE
+241,Sarah ,Brown,sarah.brown@email.com,+1 232.784.7366,Marketing ,DALLAS,30/12/24,$36433,
+21, Joseph,martinez,joseph_martinez@yahoo,,Support,Houston ,02-01-2018,86346.0,TRUE
+23,ELIZABETH, Jackson,elizabeth_jackson@yahoo,871-904-1090,Engineering, Chicago,"October 23, 2023",,TRUE
+214,Joseph ,Brown,joseph_brown@yahoo,2664768939,Support,San Antonio,01-05-2024,unknown,N
+3,mike,moore,invalid-email,,Finance,San Diego,02/03/2022,-5000,No
+77,william,Lopez,WILLIAM.Lopez@COMPANY.COM,950-872-2698,Sales,Philadelphia,15-02-2024,9999999,TRUE
+114,James,gonzalez,james_gonzalez@yahoo,(670) 778-4984,ENGINEERING,San Antonio,25/03/22,92390,Y
+223,Jessica ,johnson,jessica_johnson@yahoo,+1 905.208.1193,HR,San Antonio,2024-07-07,-5000,Y
+168,linda, Jones,LINDA.Jones@COMPANY.COM,call me,sales,Houston ,19/08/18,-5000,False
+294,Emily, Moore,,309-845-6886,Sales,Houston,14/04/18,,False
+127, Thomas,Wilson,,4479690385,HR,San Diego,12-04-2019,94157.0,
+220,Richard, Jackson,richard.jackson@email.com,call me,Sales,Los angeles,12/14/2020,82288.0,No
+8,Jane ,Davis,jane.davis@email.com,6846404445,Support,Houston ,"October 20, 2024",$100686,1
+143,John,JONES,john_jones@yahoo,+1 967.999.5403,Marketing, Chicago,01-05-2018,,1
+237,Emily ,Rodriguez,emily_rodriguez@yahoo,795-907-8786,Engineering,San Diego,10/01/19,74357,Yes
+243, Linda,MOORE,lindamoore@gmail.com,+1 771.625.2728,,Philadelphia,"February 22, 2023",N/A,False
+111,James , Moore,JAMES.Moore@COMPANY.COM,8439450819,Marketing ,Los angeles,"July 03, 2023",134199.0,Y
+251,SARAH,JOHNSON,SARAH.Johnson@COMPANY.COM,512-660-8719,HR,DALLAS,14-11-2023,N/A,Yes
+268,Thomas,MARTIN,thomasmartin@gmail.com,4068007538,Marketing , Chicago,2022-08-23,69235.0,False
+211, Mike, Miller,mike_miller@yahoo,+1 723.470.3747,sales,San Diego,09/09/24,unknown,Y
+45,Jane ,jones,jane.jones@email.com,,Finance,Philadelphia,"December 27, 2024",141642.0,False
+118,MIKE, Rodriguez,,2393077279,Marketing,Chicago,12/24/2018,unknown,No
+284,michael,wilson,MICHAEL.Wilson@COMPANY.COM,call me,Sales,new york,10/04/21,,Y
+296,John ,Thomas,johnthomas@gmail.com,call me,Marketing,Houston ,2019-03-12,$107984,No
+60,Karen ,Martin,invalid-email,(873) 910-5381,Engineering,Houston ,10/08/19,N/A,Yes
+81,EMILY, Smith,emily.smith@email.com,+1 780.233.3513,Marketing ,Philadelphia,"March 04, 2022",N/A,False
+152, Elizabeth,Gonzalez,elizabeth_gonzalez@yahoo,call me,,San Jose,03-10-2020,9999999,Yes
+113,John , Smith,john.smith@email.com,748-493-1280,Marketing,Los Angeles,11/18/2023,-5000,0
+176, Robert, Hernandez,roberthernandez@gmail.com,(523) 932-3954,Marketing ,phoenix,05/07/2020,9999999,No
+88,JENNIFER,gonzalez,invalid-email,(775) 308-6228,Finance,San Antonio,"November 25, 2024",N/A,0
+215,Elizabeth , Moore,elizabethmoore@gmail.com,+1 607.953.3262,Marketing,Los angeles,"July 30, 2020",,N
+235,Mike,jones,mike_jones@yahoo,,Marketing ,Houston,05/18/2018,,False
+239, Patricia,MOORE,invalid-email,(391) 756-6696,Support,Chicago,15-01-2023,100989.0,TRUE
+57,David ,rodriguez,david_rodriguez@yahoo,,Marketing ,Houston,22-08-2022,unknown,No
+70,karen, Williams,,295-861-7937,HR,Philadelphia,06/15/2023,,1
+144, Thomas, Williams,invalid-email,780-370-7024,Support,New York,2018-06-30,91835.0,yes
+31, Jessica, Thomas,,call me,,new york,02-04-2022,141536.0,Y
+292,Sarah,Johnson,invalid-email,9099002530,Engineering,Los angeles,"September 12, 2021",9999999,TRUE
+17,Elizabeth,Moore,elizabeth.moore@email.com,(907) 352-9938,sales,Houston,2020-10-19,unknown,
+66,sarah,JONES,sarahjones@gmail.com,+1 777.978.8354,,new york,16-08-2021,9999999,TRUE
+172,Karen ,Gonzalez,karen.gonzalez@email.com,7576911639,Finance,new york,24-08-2021,-5000,N
+104,susan, Johnson,susanjohnson@gmail.com,583-591-8348,sales,Los Angeles,02/01/20,$99316,Yes
+139,Sarah, Jones,SARAH.Jones@COMPANY.COM,+1 815.814.5668,Sales,Houston ,05/20/2021,$109551,yes
+184,Elizabeth,GARCIA,,call me,ENGINEERING, Chicago,08/01/22,N/A,TRUE
+51,Linda  ,gonzalez,linda.gonzalez@email.com,call me,ENGINEERING,Houston ,2022-03-02,$126698,
